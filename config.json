@@ -1,0 +1,12 @@
+{
+  "default_server_config": {
+    "m.homeserver": {
+      "base_url": "https://matrix.org",
+      "server_name": "matrix.org"
+    }
+  },
+  "brand": "Linkoln",
+  "branding": {
+    "logo": "/logo.png"
+  }
+}
